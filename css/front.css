@@ -434,3 +434,14 @@ abbr.wpgdprc-required + abbr.required {
         opacity: 0;
     }
 }
+
+
+
+
+  div.wpgdprc .wpgdprc-switch .wpgdprc-switch-inner:before {
+            content: 'Yes';
+        }
+        
+        div.wpgdprc .wpgdprc-switch .wpgdprc-switch-inner:after {
+            content: 'No';
+        }
