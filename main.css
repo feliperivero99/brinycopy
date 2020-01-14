@@ -170,3 +170,10 @@ input[type=number] {
 .sc_testimonials_item_author_title{
 text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .sc_promo_image{
+		padding-top:35% !important;
+}
+}
