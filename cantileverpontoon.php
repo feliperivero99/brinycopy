@@ -8,41 +8,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link rel="profile" href="//gmpg.org/xfn/11">
-    <title>T&J Waterfront Services LLC &#8211;  Docks Accessories</title>
+    <title>T&J Waterfront Services LLC &#8211; Cantilever Pontoon & Tritoon Lifts
+</title>
    
     <meta name='robots' content='noindex,nofollow'>
     <link rel='dns-prefetch' href='//fonts.googleapis.com'>
     
 
-    <meta property="og:title" content="T&J Waterfront Services LLC &#8211;  Docks Accessories">
+    <meta property="og:title" content="T&J Waterfront Services LLC &#8211; Cantilever Pontoon & Tritoon Lifts">
     <meta property="og:description" content="Dock & Hoist sales, Installs, Removals, Seawalls, Beach's, Patio's, Retaining Walls, Landscaping and More! We have a varieties of Services! Give us a call today!">
     <meta property="og:type" content="article">
-	<link property="stylesheet" rel='stylesheet' href="main.css" type='text/css' media='all'>
+	<link property="stylesheet" rel='stylesheet' href="https://tjwaterfrontservices.b-cdn.net/main.css" type='text/css' media='all'>
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {}
     </style>
-    <script type='text/javascript' src='js/jquery.js'></script>
-	<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='https://tjwaterfrontservices.b-cdn.net/js/jquery.js'></script>
+	<script type='text/javascript' src='https://tjwaterfrontservices.b-cdn.net/js/jquery-migrate.min.js'></script>
     
 	<link rel="canonical" href="index.htm">
      <style type="text/css">
         <!-- #page_preloader {
             background-color: #ffffff !important;
-            background-image: url(img/preloader.gif);
+            background-image: url(https://tjwaterfrontservices.b-cdn.net/img/preloader.gif);
         }
         
         -->
     </style>
     <meta name="tec-api-version" content="v1">
-    <link rel="icon" href="img/cropped-512-90x90.png" sizes="32x32">
-    <link rel="icon" href="img/cropped-512-270x270.png" sizes="192x192">
-    <link rel="apple-touch-icon-precomposed" href="img/cropped-512-270x270.png">
-    <meta name="msapplication-TileImage" content="img/cropped-512-270x270.png">
-	<script type='text/javascript' src='js/customjs.js'></script>
+    <link rel="icon" href="https://tjwaterfrontservices.b-cdn.net/img/cropped-512-90x90.png" sizes="32x32">
+    <link rel="icon" href="https://tjwaterfrontservices.b-cdn.net/img/cropped-512-270x270.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="https://tjwaterfrontservices.b-cdn.net/img/cropped-512-270x270.png">
+    <meta name="msapplication-TileImage" content="https://tjwaterfrontservices.b-cdn.net/img/cropped-512-270x270.png">
+	<script type='text/javascript' src='https://tjwaterfrontservices.b-cdn.net/js/customjs.js'></script>
    
 </head>
 
-<body class="page-template-default page page-id-514 wp-custom-logo theme-briny preloader woocommerce-no-js tribe-no-js body_tag scheme_default blog_mode_page body_style_wide is_single sidebar_hide expand_content remove_margins trx_addons_present header_type_custom header_style_header-custom-837 header_position_over menu_style_top no_layout elementor-default elementor-page elementor-page-514"  style="background-color:white">
+<body class="page-template-default page page-id-514 wp-custom-logo theme-briny preloader woocommerce-no-js tribe-no-js body_tag scheme_default blog_mode_page body_style_wide is_single sidebar_hide expand_content remove_margins trx_addons_present header_type_custom header_style_header-custom-837 header_position_over menu_style_top no_layout elementor-default elementor-page elementor-page-514">
 
     <div id="page_preloader"></div>
     <div class="body_wrap">
@@ -60,7 +61,6 @@
                                                 <div class="elementor-widget-wrap">
                                                     <div class="sc_layouts_item elementor-element elementor-element-64efc2a0 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="64efc2a0" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                                         <div class="elementor-widget-container">
-                                                            <a href="index.html" id="trx_sc_layouts_logo_1937846302" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_322218152"><img class="logo_image" src="img/logo2.png" srcset="img/logo2_retina.png" alt="Briny" width="122" height="41"></a>
                                                             <!-- /.sc_layouts_logo -->
                                                         </div>
                                                     </div>
@@ -76,19 +76,7 @@
                                                                 <ul id="menu_main" class="sc_layouts_menu_nav menu_main_nav">
                                                                     <li id="menu-item-197" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-197">
 																		<a href="index.html"><span>Home</span></a>
-                                                                       <!-- <ul class="sub-menu">
-                                                                            <li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-548"><a href="index.html"><span>Home Diving 1</span></a></li>
-                                                                            <li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="index.htmlhome-2/"><span>Home Diving 2</span></a></li>
-                                                                            <li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="index.htmlhome-3/"><span>Home Diving Boxed</span></a></li>
-                                                                            <li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2514"><a href="index.htmlhome-water-park/"><span>Home Water Park</span></a></li>
-                                                                            <li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-514 current_page_item menu-item-551"><a href="index.htm" aria-current="page"><span>Home Surfing</span></a></li>
-                                                                            <li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="index.htmlhome-5/"><span>Home Boats</span></a></li>
-                                                                            <li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="index.htmlhome-6/"><span>Home Sea Adventure</span></a></li>
-                                                                            <li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="index.htmlhome-7/"><span>Home Shop</span></a></li>
-                                                                            <li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="index.htmlhome-8/"><span>Home Blog 1</span></a></li>
-                                                                            <li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="index.htmlhome-9/"><span>Home Blog 2</span></a></li>
-                                                                            <li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="index.htmlhome-10/"><span>Home Blog 3</span></a></li>
-                                                                        </ul>-->
+                                                                       
                                                                     </li>
                                                                     <li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-198">
 																		<a href="#"><span>Services</span></a>
@@ -97,9 +85,9 @@
 																					<a href="landscaping.html"><span>Landscaping</span></a></li>
                                                                             <li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201">
 																					<a href="retainingwalls.html"><span>Retaining Walls</span></a></li>
-                                                                             <li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201">
-																					<a href="seawalls.html"><span>Seawalls</span></a></li>
-																			<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200">
+																			 <li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201">
+																					<a href="seawalls.html"><span>Seawalls</span></a></li>		
+                                                                            <li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200">
 																					<a href="patios.html"><span>Patios</span></a></li>
                                                                             <li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199">
 																					<a href="beaches.html"><span>Beaches</span></a></li>
@@ -114,13 +102,13 @@
                                                                     </li>
 																	  <li id="menu-item-418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-418">
 																		<a href="gallery.html"><span>Gallery</span></a>
-                                                                       
+                                                                        
                                                                     </li>
 																	
 																	
                                                                     <li id="menu-item-418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-418">
 																		<a href="about.html"><span>About Us</span></a>
-                                                                       
+                                                                         
                                                                     </li>
                                                                     
                                                                     <li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216">
@@ -141,7 +129,7 @@
                                                             <div id="trx_sc_layouts_search_573530357" class="sc_layouts_search">
                                                                 <div class="search_wrap search_style_fullscreen layouts_search">
                                                                     <div class="search_form_wrap">
-                                                                        <form role="search" method="get" class="search_form" action="index.html">
+                                                                        <form role="search" method="get" class="search_form" action="">
                                                                             <input type="hidden" value="" name="post_types">
                                                                             <input type="text" class="search_field" placeholder="Search" value="" name="s">
                                                                             <a class="search_close trx_addons_icon-delete"></a>
@@ -180,7 +168,6 @@
                                                 <div class="elementor-widget-wrap">
                                                     <div class="sc_layouts_item elementor-element elementor-element-285030e7 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="285030e7" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                                         <div class="elementor-widget-container">
-                                                            <a href="index.html" id="trx_sc_layouts_logo_983565611" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1164829787"><img class="logo_image" src="img/logo2.png" srcset="img/logo2_retina.png" alt="Briny" width="122" height="41"></a>
                                                             <!-- /.sc_layouts_logo -->
                                                         </div>
                                                     </div>
@@ -213,8 +200,8 @@
             <div class="menu_mobile menu_mobile_fullscreen scheme_dark">
                 <div class="menu_mobile_inner">
                     <a class="menu_mobile_close theme_button_close"><span class="theme_button_close_icon"></span></a>
-                    <a class="sc_layouts_logo" href="index.html">
-                        <img src="img/logo2.png" srcset="img/logo2_retina.png" alt="Briny" width="122" height="41"> </a>
+                    <a class="sc_layouts_logo" href="http://briny.ancorathemes.com/">
+                        <img src="https://tjwaterfrontservices.b-cdn.net/img/logo2.png" srcset="https://tjwaterfrontservices.b-cdn.net/img/logo2_retina.png" alt="Briny" width="122" height="41"> </a>
                     <nav class="menu_mobile_nav_area" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
                         <ul id="menu_mobile" class=" menu_mobile_nav">
                             <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-197">
@@ -253,14 +240,14 @@
                     </nav>
                     <div class="search_wrap search_style_normal search_mobile">
                         <div class="search_form_wrap">
-                            <form role="search" method="get" class="search_form" action="index.html">
+                            <form role="search" method="get" class="search_form" action="http://briny.ancorathemes.com/">
                                 <input type="hidden" value="" name="post_types">
                                 <input type="text" class="search_field" placeholder="Search" value="" name="s">
                                 <button type="submit" class="search_submit trx_addons_icon-search"></button>
                             </form>
                         </div>
                     </div>
-                    <div class="socials_mobile"><a target="_blank" href="https://www.facebook.com/Tjwaterfrontservices/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_facebook"><span class="icon-facebook"></span></span></a><a target="_blank" href="https://www.facebook.com/Tjwaterfrontservices/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_twitter"><span class="icon-twitter"></span></span></a><a target="_blank" href="https://www.facebook.com/Tjwaterfrontservices/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_instagramm"><span class="icon-instagramm"></span></span></a></div>
+                    <div class="socials_mobile"><a target="_blank" href="https://www.facebook.com/AncoraThemes/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_facebook"><span class="icon-facebook"></span></span></a><a target="_blank" href="https://twitter.com/ancora_themes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_twitter"><span class="icon-twitter"></span></span></a><a target="_blank" href="https://www.instagram.com/ancora_themes/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_instagramm"><span class="icon-instagramm"></span></span></a></div>
                 </div>
             </div>
 
@@ -283,11 +270,14 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-f00561e sc_fly_static elementor-widget elementor-widget-shortcode" data-id="f00561e" data-element_type="widget" data-widget_type="shortcode.default">
                                                                         <div class="elementor-widget-container">
-                                                                            	<div class="sc_promo_image" style="background-image:url(img/17264209_1543134772372997_1300405096819271743_n.jpg);width:100%;left: 0; height:700px; padding: 15% 15% 0 5%;">
+                                                                            	<div class="sc_promo_image" style="background-image:url(https://tjwaterfrontservices.b-cdn.net/img/37663829_2084039714949164_8545398688833339392_n.jpg);width:100%;left: 0; height:700px; padding: 15% 15% 0 5%;">
 																				
 																				
 																				<rs-layer id="slider-1-slide-1-layer-1" class="font-size-title rs-layer" data-type="text" data-color="#221b40" data-xy="x:200px;y:c;yo:-107px;" data-text="s:116;l:124;ls:0px;fw:800;a:inherit;" data-frame_0="o:1;tp:600;" data-frame_0_sfx="se:blocktoright;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:2000;sR:500;" data-frame_1_sfx="se:blocktoright;" data-frame_999="o:0;tp:600;st:w;sR:6500;" style="z-index: 5; font-family: Metropolis; visibility: visible; text-align: inherit; line-height: 87px; letter-spacing: 0px; font-weight: 800; font-size: 82px; border-color: rgb(99, 92, 129); border-style: none; margin: 0px; border-radius: 0px; padding: 0px; color: rgb(34, 27, 64); text-decoration: none; white-space: nowrap; width: auto; height: auto; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;" data-idcheck="true" data-stylerecorder="true" data-initialised="true">
-																					Dock Accessories
+																					Cantilever Pontoon 
+                                                                                </rs-layer>
+																				<rs-layer id="slider-1-slide-1-layer-1" class="font-size-title rs-layer" data-type="text" data-color="#221b40" data-xy="x:200px;y:c;yo:-107px;" data-text="s:116;l:124;ls:0px;fw:800;a:inherit;" data-frame_0="o:1;tp:600;" data-frame_0_sfx="se:blocktoright;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:2000;sR:500;" data-frame_1_sfx="se:blocktoright;" data-frame_999="o:0;tp:600;st:w;sR:6500;" style="z-index: 5; font-family: Metropolis; visibility: visible; text-align: inherit; line-height: 87px; letter-spacing: 0px; font-weight: 800; font-size: 82px; border-color: rgb(99, 92, 129); border-style: none; margin: 0px; border-radius: 0px; padding: 0px; color: rgb(34, 27, 64); text-decoration: none; white-space: nowrap; width: auto; height: auto; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;" data-idcheck="true" data-stylerecorder="true" data-initialised="true">
+																					& Tritoon Lifts 
                                                                                 </rs-layer>
 																				
 																				
@@ -307,7 +297,7 @@
                                                 </div>
                                             </section>
                                         
-										<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}" style="background-color:white;">
+										<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}">
                                                 <div class="elementor-container elementor-column-gap-no">
                                                     <div class="elementor-row">
                                                         <div class="elementor-element elementor-element-134587a sc_inner_width_none sc_layouts_column_icons_position_left elementor-column elementor-col-100 elementor-top-column" data-id="134587a" data-element_type="column">
@@ -317,59 +307,48 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
                                                                                 <!-- /.sc_promo_image -->
-																				<div class="sc_promo_text" style="width: 45%;float: left;   background-image: url(img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 15%; background:none;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white">Truss Dock<br>Vertical Bumper</span></h2>
+																				<div class="sc_promo_text" style="width: 100%;float: left;   background-image: url(https://tjwaterfrontservices.b-cdn.net/img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
+                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 23.7%; background:none;">
+                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white">Starr Cantilever <br>Pontoon Lift </span></h2>
                                                                                         <div class="sc_item_descr sc_promo_descr scheme_dark">
                                                                                             <br/>
-																							<img src="img/7-1.png" style="width:100%; height:auto;">
+																							<img src="https://tjwaterfrontservices.b-cdn.net/img/img32.JPG" style="width:100%; height:auto;">
 																							<br/>
-																							<p class="scheme_dark">
-																								 <ul>
-																									<li class="scheme_dark"> Best way to protect your investment</li>
-																									<li class="scheme_dark">Available in 36” and 48” heights </li>
-																									<li class="scheme_dark">Attaches anywhere on your dock </li>
-																									<li class="scheme_dark">No drilling required </li>
-																									<li class="scheme_dark">Will catch something low profile that  would  go under the dock or  something high profile that would go  over the dock </li>
-																									<li class="scheme_dark">Stable enough to tie off your boat</li>
-																								 </ul>
+																							<br/>
 																							
+																							<p>
+																								<ul>
+																									<li class="scheme_dark"> 42” power coated wheel </li>
+																									<li class="scheme_dark">Designed to lift up to 4,200 lbs. </li>
+																									<li class="scheme_dark"> Rollers down the side of the top rails allow for easy guide in. </li>
+																									
+																									<li class="scheme_dark"> Front end stops are standard</li>
+																									
+																									<li class="scheme_dark">  5 H units instead of 4 H found on most  cantileverlifts for heavier motors and weight  distribution </li>
+																									<li class="scheme_dark"> An open ended canopy option is available as  an upgrade </li>
+																									<li class="scheme_dark"> Great for low water applications </li>		
+																								</ul>
+																							
+																							 </p>
+																							 
+																							 <p class="scheme_dark">
+																							Cantilever Pontoon Lift Accessories<br/> Starr boat lifts (BL) are constructed with heavy gauge aluminum providing great  strength and long lasting durability
 																							</p>
+																							 
+																							 
 																							<br/>
 																							<br/>
-																							
+																							<br/>
+																							<br/>
 																						</div>
-                                                                                       
+                                                                                         <div id="sc_button_2123267877" class="sc_item_button sc_button_wrap sc_item_button sc_item_button_default sc_promo_button" style="margin-top:2.5em;"><a href="www.GreatLakesEntry.com" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">For more information</span></span><!-- /.sc_button_text --></a>
+                                                                                            <!-- /.sc_button -->
+                                                                                        </div>
                                                                                         <!-- /.sc_item_button -->
                                                                                     </div>
                                                                                 </div>
 																				
 																				
-																				 <div class="sc_promo_text" style="width: 55%;float: right;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 23.7%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Starr Dock <br>Vertical Bumper</span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							<br/>
-																							<img src="img/7-6.png" style="width:158px; height:auto;">
-																							<br/>
-                                                                                           <p class="">
-																								 <ul>
-																									<li class=""> Best way to protect your investment</li>
-																									<li class="">Available in 36˝  heights </li>
-																									<li class="">Attach to leg frame  </li>
-																									<li class="">No drilling required </li>
-																									<li class="">36˝ Starr Vertical Bumper  will catch the rub rail of  the boat and will not  touch the hull,  eliminating the expensive gel coat  and decal repairs. </li>
-																									<li class="">Stable enough to tie off your boat</li>
-																								 </ul>
-																							
-																							</p>
-																						</div>
-                                                                                        
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																			
                                                                                 <!-- /.sc_promo_text -->
                                                                             </div>
                                                                             <!-- /.sc_promo -->
@@ -382,402 +361,7 @@
                                                 </div>
                                             </section>
                                            
-										   
-										<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}" style="background-color:white;">
-                                                <div class="elementor-container elementor-column-gap-no">
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-134587a sc_inner_width_none sc_layouts_column_icons_position_left elementor-column elementor-col-100 elementor-top-column" data-id="134587a" data-element_type="column">
-                                                            <div class="elementor-column-wrap  elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-50e7ae8 sc_fly_static elementor-widget elementor-widget-trx_sc_promo" data-id="50e7ae8" data-element_type="widget" data-widget_type="trx_sc_promo.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
-                                                                                <!-- /.sc_promo_image -->
-																				
-																				
-																				 <div class="sc_promo_text" style="width: 60%;float: left;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 10%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Starr Adjustable <br>Vertical Bumper</span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							
-																						
-																						<img src="img/img12.JPG" style="width: 145px; height:auto; ">
-																							
-																						<p >
-																								 <ul style="margin-left:20px;">
-																									<li class="">Attaches anywhere on your dock </li>
-																									<li class="">Has adjustable track on the back side of  the bumper allowing you to adjust where you need the most  protection </li>
-																									<li class="">Comes in tan or gray</li>
-																								 </ul>
-																							
-																							</p>
-																						 </div>
-                                                                                        
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																				
-																				 <div class="sc_promo_text" style="width: 40%;float: right;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 10%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Shore End <br>Wheel Kit </span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							<br/>
-																							<img src="img/img13.JPG" style="width:197px; height:auto;">
-																							<br/>
-																							<br/>
-                                                                                           <p class="">
-																								 <ul>
-																									<li class="">Roll your dock in and out of the water  without lifting</li>
-																								
-																								 </ul>
-																							
-																							</p>
-																						</div>
-                                                                                        
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																			
-                                                                                <!-- /.sc_promo_text -->
-                                                                            </div>
-                                                                            <!-- /.sc_promo -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                           
-											<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}" style="background-color:white;">
-                                                <div class="elementor-container elementor-column-gap-no">
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-134587a sc_inner_width_none sc_layouts_column_icons_position_left elementor-column elementor-col-100 elementor-top-column" data-id="134587a" data-element_type="column">
-                                                            <div class="elementor-column-wrap  elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-50e7ae8 sc_fly_static elementor-widget elementor-widget-trx_sc_promo" data-id="50e7ae8" data-element_type="widget" data-widget_type="trx_sc_promo.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
-                                                                                <!-- /.sc_promo_image -->
-																				<div class="sc_promo_text" style="width: 60%;float: left;   background-image: url(img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 23%; background:none;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white">Flag Pole</span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr scheme_dark">
-																						
-																							<br/>
-																							<img src="img/34193147_2011212105565259_2768627152696901632_n.jpg" style="width: 100%; height:auto; ">
-																							
-																							<br/>
-                                                                                          
-																							<p class="scheme_dark">
-																								 <ul>
-																									<li class="scheme_dark"> Enhance your  lakefront dock  system by showing  your patriotism </li>
-																									<li class="scheme_dark">Our flag pole attaches to the truss and will go anywhere on the system </li>
-																									<li class="scheme_dark">Available for all dock systems </li>
-																								 </ul>
-																							
-																							</p>
-																						
-																							
-																						</div>
-																						
-																						
-                                                                                        <!-- /.sc_item_button -->
-																						<!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																					<div class="sc_promo_text" style="width: 40%;float: right;   background-image: url(img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 15%; background:none;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white">Solar Dock Lights</span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr scheme_dark">
-                                                                                            <br/>
-																							<img src="img/img15.JPG" style="width:100%; height:auto;">
-																							<br/>
-																							
-																							<p class="scheme_dark">
-																								 <ul>
-																									<li class="scheme_dark"> Most popular way to light your  dock </li>
-																									<li class="scheme_dark"> Light attaches to top of vertical  bumper </li>
-																									<li class="scheme_dark"> 6 pre-installed LED colors on each  light. Change colors anytime </li>
-																									<li class="scheme_dark"> Yellow lights deter bugs </li>
-																									<li class="scheme_dark">  Other mounting options available</li>
-																								 </ul>
-																							
-																							</p>
-																							
-																						</div>
-																						<br/>
-																						<br/>
-																						<br/>
-																						<div id="sc_button_2123267877" class="sc_item_button sc_button_wrap sc_item_button sc_item_button_default sc_promo_button"  style="margin-top:1em"><a href="StarrDocks 2020_12.17.pdf#page=7" target="_blank" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">For more information</span></span><!-- /.sc_button_text --></a>
-                                                                                            <!-- /.sc_button -->
-                                                                                        </div>
-                                                                                       
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																				
-																				 
-																			
-                                                                                <!-- /.sc_promo_text -->
-                                                                            </div>
-                                                                            <!-- /.sc_promo -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                    
-									
-										<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}" style="background-color:white;">
-                                                <div class="elementor-container elementor-column-gap-no">
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-134587a sc_inner_width_none sc_layouts_column_icons_position_left elementor-column elementor-col-100 elementor-top-column" data-id="134587a" data-element_type="column">
-                                                            <div class="elementor-column-wrap  elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-50e7ae8 sc_fly_static elementor-widget elementor-widget-trx_sc_promo" data-id="50e7ae8" data-element_type="widget" data-widget_type="trx_sc_promo.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
-                                                                                <!-- /.sc_promo_image -->
-																				
-																				
-																				 <div class="sc_promo_text" style="width: 50%;float: left;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 20%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Aluminum <br>Side-Mount Bench </span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							<br/>
-																							<img src="img/img16.JPG" style="width:250px; height:auto;">
-																							
-																							
-																							<br/>
-                                                                                           <p class="">
-																								 <ul>
-																									<li class="">Maintenance free powder coated aluminum </li>
-																									<li class="">Will attach anywhere on dock </li>
-																									<li class=""> No drilling required (truss dock) </li>
-																									<li class=""> Takes up less dock space </li>
-																									<li class=""> Relocation easy if you change configuration</li>
-																								
-																								 </ul>
-																							
-																							</p>
-                                                                                        </div>
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																				
-																				 <div class="sc_promo_text" style="width: 50%;float: right;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 20%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Aluminum<br> Top-Mount Bench</span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							<br/>
-																							<img src="img/img17.JPG" style="width:246px; height:auto;">
-																							
-																							
-																							<br/>
-                                                                                           <p class="">
-																								 <ul>
-																									<li class=""> Maintenance-free anodized aluminum  or in powder coat </li>
-																									
-																									<li class="">Drilling through decking is required</li>
-																									<li class="">Arm rest and cup holders are available</li>
-																								
-																								 </ul>
-																							
-																							</p>
-																						</div>
-                                                                                        
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																			
-                                                                                <!-- /.sc_promo_text -->
-                                                                            </div>
-                                                                            <!-- /.sc_promo -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                          
-									
-									
-									
-									<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}" style="background-color:white;">
-                                                <div class="elementor-container elementor-column-gap-no">
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-134587a sc_inner_width_none sc_layouts_column_icons_position_left elementor-column elementor-col-100 elementor-top-column" data-id="134587a" data-element_type="column">
-                                                            <div class="elementor-column-wrap  elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-50e7ae8 sc_fly_static elementor-widget elementor-widget-trx_sc_promo" data-id="50e7ae8" data-element_type="widget" data-widget_type="trx_sc_promo.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
-                                                                                <!-- /.sc_promo_image -->
-																				
-																				
-																				 <div class="sc_promo_text" style="width: 50%;float: left;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 20%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Universal<br> Swim Ladder </span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							<br/>
-																							
-																							<img src="img/img18.JPG" style="width:221px; height:auto;">
-																									
-																						<br/>
-                                                                                           <p class="">
-																								 <ul>
-																									<li class="">Can be mounted anywhere on almost any dock </li>
-																									<li class=""> Available in 3,4, and 5 step   straight and angled </li>
-																									<li class=""> Drilling through top deck is   required</li>
-																								 </ul>
-																							
-																							</p>
-                                                                                        </div>
-																						<!-- /.sc_item_button -->
-																					
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																				
-																				 <div class="sc_promo_text" style="width: 50%;float: right;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 20%;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text">Swim<br> Ladder </span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr">
-																							<br/>
-																							
-																							<img src="img/dock-ladder.png" style="width:100%; height:auto;">
-																									
-																						<br/>
-                                                                                           <p class="">
-																								 <ul>
-																									<li class="">Can be mounted anywhere   on  truss-style dock </li>
-																									
-																									<li class="">Available in 2,3,4, and 5 step</li>
-																								
-																								 </ul>
-																							
-																							</p>
-																						</div>
-																						
-                                                                                       	<div id="sc_button_2123267877" class="sc_item_button sc_button_wrap sc_item_button sc_item_button_default sc_promo_button"><a href="StarrDocks 2020_12.17.pdf#page=8" target="_blank" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">For more information</span></span><!-- /.sc_button_text --></a>
-                                                                                            <!-- /.sc_button -->
-                                                                                        </div>
-                                                                                        
-                                                                                        
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																			
-                                                                                <!-- /.sc_promo_text -->
-                                                                            </div>
-                                                                            <!-- /.sc_promo -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                          
-									
-									
-										<section class="elementor-element elementor-element-00243cf elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-top-section" data-id="00243cf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}" style="background-color:white;">
-                                                <div class="elementor-container elementor-column-gap-no">
-                                                    <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-134587a sc_inner_width_none sc_layouts_column_icons_position_left elementor-column elementor-col-100 elementor-top-column" data-id="134587a" data-element_type="column">
-                                                            <div class="elementor-column-wrap  elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-50e7ae8 sc_fly_static elementor-widget elementor-widget-trx_sc_promo" data-id="50e7ae8" data-element_type="widget" data-widget_type="trx_sc_promo.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
-                                                                                <!-- /.sc_promo_image -->
-																				<div class="sc_promo_text" style="width: 60%;float: left;   background-image: url(img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 15%; background:none;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white">Swivel Chairs </span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr scheme_dark">
-																						  
-																							<p class="scheme_dark">
-																								 <ul>
-																									<li class="scheme_dark">Deck out your dock  with fashionable  swivel chairs  </li>
-																									<li class="scheme_dark"> Attachable anywhere  on truss-dock system  </li>
-																									<li class="scheme_dark"> Perfect fishing chair or  dock side entertainment </li>
-																									<li class="scheme_dark"> Takes up less dock  space </li>
-																								 </ul>
-																							
-																							</p>
-																							<br/>
-																							<img src="img/img20.JPG" style="width:225px; height:auto;">
-																							<br/>
-																							
-																							
-																							
-																						</div>
-																						
-                                                                                       	<div id="sc_button_2123267877" class="sc_item_button sc_button_wrap sc_item_button sc_item_button_default sc_promo_button" style="margin-top:2.6em;"><a href="StarrDocks 2020_12.17.pdf#page=12" target="_blank" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">For more information</span></span><!-- /.sc_button_text --></a>
-                                                                                            <!-- /.sc_button -->
-                                                                                        </div>
-                                                                                        <!-- /.sc_item_button -->
-																						
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																					<div class="sc_promo_text" style="width: 40%;float: right;   background-image: url(img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
-                                                                                    <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 23%; background:none;">
-                                                                                        <h2 class="sc_item_title sc_promo_title sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white">Kayak, Canoe & SUP Rack </span></h2>
-                                                                                        <div class="sc_item_descr sc_promo_descr scheme_dark">
-                                                                                            <br/>
-																							<img src="img/img21.JPG" style="width:234px; height:auto;">
-																							<br/>
-																							
-																							<p class="scheme_dark">
-																								 <ul>
-																									<li class="scheme_dark">  Mounts anywhere on Truss-Dock System</li>
-																									<li class="scheme_dark">Does not take up dock space </li>
-																								 </ul>
-																							
-																							</p>
-																							
-																						</div>
-                                                                                       
-                                                                                        <!-- /.sc_item_button -->
-                                                                                    </div>
-                                                                                </div>
-																				
-																				
-																				 
-																			
-                                                                                <!-- /.sc_promo_text -->
-                                                                            </div>
-                                                                            <!-- /.sc_promo -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                    
-									
-									
-						
+                       
 											 <section class="elementor-element elementor-element-6386963 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6386963" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                                 <div class="elementor-container elementor-column-gap-extended">
                                                     <div class="elementor-row">
@@ -885,15 +469,15 @@
                                                                                             <div class="sc_blogger_item_body">
                                                                                                 <div class="post_featured with_thumb hover_dots sc_item_featured sc_blogger_item_featured post_featured_bg briny_inline_29729373" data-ratio="1:1">
                                                                                                     <div class="mask"></div>
-                                                                                                    <a href="boat-lifts.html" class="icons"><span></span><span></span><span></span></a>
+                                                                                                    <a href="cantileverpontoon.html" class="icons"><span></span><span></span><span></span></a>
                                                                                                     <div class="post_info_bl">
                                                                                                         <div class="post_meta sc_blogger_item_meta post_meta_categories">
-                                                                                                            <span class="post_meta_item post_categories"><a href="boat-lifts.html" title="View all posts in Lifts">Lifts</a></span> </div>
+                                                                                                            <span class="post_meta_item post_categories"><a href="cantileverpontoon.html" title="View all posts in Lifts">Lifts</a></span> </div>
                                                                                                         <!-- .post_meta -->
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="sc_blogger_item_content entry-content">
-                                                                                                    <h5 class="sc_blogger_item_title entry-title" data-item-number="4"><a href="boat-lifts.html" rel="bookmark">Boat Lift</a></h5>
+                                                                                                    <h5 class="sc_blogger_item_title entry-title" data-item-number="4"><a href="cantileverpontoon.html" rel="bookmark">Cantilever Pontoon & Tritoon Lift</a></h5>
                                                                                                     <div class="post_meta sc_blogger_item_meta post_meta">
                                                                                                     </div>
                                                                                                     <!-- .post_meta -->
@@ -1065,7 +649,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div id="trx_sc_promo_1082858345" class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_position_left">
                                                                                 <!-- /.sc_promo_image -->
-																				<div class="sc_promo_text" style="width: 50%;float: left;   background-image: url(img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
+																				<div class="sc_promo_text" style="width: 50%;float: left;   background-image: url(https://tjwaterfrontservices.b-cdn.net/img/bg-4.jpg); background-position: top left; background-repeat: no-repeat; background-size: cover;">
                                                                                     <div class="sc_promo_text_inner trx_addons_inline_874151218"  style="padding: 5% 23.7%; background:none;">
 																						  <h2 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_decoration sc_item_title_tag"><span class="sc_item_title_text" style="color:white;">Contact Us</span></h2>
                                                                                 <div class="sc_item_descr sc_title_descr sc_align_left">
@@ -1134,49 +718,49 @@
                                                                                     <div id="sbi_images">
                                                                                         <div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_1971805404090383283_10906768996" data-date="1549277543">
                                                                                             <div class="sbi_photo_wrap">
-                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/p.2864320820254379/2864320820254379/?type=1&theater" target="_blank" rel="noopener" data-full-res="img/74160366_2864320826921045_6823600085742387200_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;,&quot;150&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;,&quot;320&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;,&quot;640&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;}">
+                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/p.2864320820254379/2864320820254379/?type=1&theater" target="_blank" rel="noopener" data-full-res="https://tjwaterfrontservices.b-cdn.net/img/74160366_2864320826921045_6823600085742387200_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;,&quot;150&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;,&quot;320&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;,&quot;640&quot;:&quot;img\/74160366_2864320826921045_6823600085742387200_n.jpg&quot;}">
                                                                                                     <span class="sbi-screenreader"></span>
-                                                                                                    <img src="img/placeholder.png" >
+                                                                                                    <img src="https://tjwaterfrontservices.b-cdn.net/img/placeholder.png" >
                                                                                                 </a>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_1971805332711807071_10906768996" data-date="1549277534">
                                                                                             <div class="sbi_photo_wrap">
-                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2815264641826664/?type=3&theater" target="_blank" rel="noopener" data-full-res="img/72355009_2815264658493329_6535036875395039232_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;,&quot;150&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;,&quot;320&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;,&quot;640&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;}">
+                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2815264641826664/?type=3&theater" target="_blank" rel="noopener" data-full-res="https://tjwaterfrontservices.b-cdn.net/img/72355009_2815264658493329_6535036875395039232_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;,&quot;150&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;,&quot;320&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;,&quot;640&quot;:&quot;img\/72355009_2815264658493329_6535036875395039232_n.jpg&quot;}">
                                                                                                     <span class="sbi-screenreader"></span>
-                                                                                                    <img src="img/placeholder.png" >
+                                                                                                    <img src="https://tjwaterfrontservices.b-cdn.net/img/placeholder.png" >
                                                                                                 </a>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_1971805260829860382_10906768996" data-date="1549277525">
                                                                                             <div class="sbi_photo_wrap">
-                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2613380225348441/?type=3&theater" target="_blank" rel="noopener" data-full-res="img/65962289_2613380228681774_6100613049507381248_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;,&quot;150&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;,&quot;320&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;,&quot;640&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;}">
+                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2613380225348441/?type=3&theater" target="_blank" rel="noopener" data-full-res="https://tjwaterfrontservices.b-cdn.net/img/65962289_2613380228681774_6100613049507381248_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;,&quot;150&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;,&quot;320&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;,&quot;640&quot;:&quot;img\/65962289_2613380228681774_6100613049507381248_n.jpg&quot;}">
                                                                                                     <span class="sbi-screenreader"></span>
-                                                                                                    <img src="img/placeholder.png" >
+                                                                                                    <img src="https://tjwaterfrontservices.b-cdn.net/img/placeholder.png" >
                                                                                                 </a>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_1971805129397101442_10906768996" data-date="1549277510">
                                                                                             <div class="sbi_photo_wrap">
-                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2500051843347947/?type=3&theater" target="_blank" rel="noopener" data-full-res="img/56599870_2475486845804447_7928454798863499264_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;,&quot;150&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;,&quot;320&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;,&quot;640&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;}">
+                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2500051843347947/?type=3&theater" target="_blank" rel="noopener" data-full-res="https://tjwaterfrontservices.b-cdn.net/img/56599870_2475486845804447_7928454798863499264_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;,&quot;150&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;,&quot;320&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;,&quot;640&quot;:&quot;img\/56599870_2475486845804447_7928454798863499264_n.jpg&quot;}">
                                                                                                     <span class="sbi-screenreader"></span>
-                                                                                                    <img src="img/placeholder.png" >
+                                                                                                    <img src="https://tjwaterfrontservices.b-cdn.net/img/placeholder.png" >
                                                                                                 </a>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_1971804660650065090_10906768996" data-date="1549277454">
                                                                                             <div class="sbi_photo_wrap">
-                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2500051843347947/?type=3&theater" target="_blank" rel="noopener" data-full-res="img/58831579_2500051846681280_4207151071816056832_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;,&quot;150&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;,&quot;320&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;,&quot;640&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;}">
+                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/2500051843347947/?type=3&theater" target="_blank" rel="noopener" data-full-res="https://tjwaterfrontservices.b-cdn.net/img/58831579_2500051846681280_4207151071816056832_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;,&quot;150&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;,&quot;320&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;,&quot;640&quot;:&quot;img\/58831579_2500051846681280_4207151071816056832_n.jpg&quot;}">
                                                                                                     <span class="sbi-screenreader"></span>
-                                                                                                    <img src="img/placeholder.png" >
+                                                                                                    <img src="https://tjwaterfrontservices.b-cdn.net/img/placeholder.png" >
                                                                                                 </a>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_1971804038081205317_10906768996" data-date="1549277380">
                                                                                             <div class="sbi_photo_wrap">
-                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/1572619839424490/?type=3&theater" target="_blank" rel="noopener" data-full-res="img/17861990_1572619839424490_154390568844920228_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;,&quot;150&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;,&quot;320&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;,&quot;640&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;}">
+                                                                                                <a class="sbi_photo" href="https://www.facebook.com/Tjwaterfrontservices/photos/a.1366717520014724/1572619839424490/?type=3&theater" target="_blank" rel="noopener" data-full-res="https://tjwaterfrontservices.b-cdn.net/img/17861990_1572619839424490_154390568844920228_n.jpg" data-img-src-set="{&quot;d&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;,&quot;150&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;,&quot;320&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;,&quot;640&quot;:&quot;img\/17861990_1572619839424490_154390568844920228_n.jpg&quot;}">
                                                                                                     <span class="sbi-screenreader"></span>
-                                                                                                    <img src="img/placeholder.png" >
+                                                                                                    <img src="https://tjwaterfrontservices.b-cdn.net/img/placeholder.png" >
                                                                                                 </a>
                                                                                             </div>
                                                                                         </div>
@@ -1231,8 +815,8 @@
                                                                     <ul id="menu-links-1" class="menu">
                                                                         <li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="sectional-docks.html">Sectional Docks</a></li>
                                                                         <li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="rollindocks.html">Roll-in Docks</a></li>
-                                                                        <li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a href="platinumdock-systems.html">Platinum Docks System</a></li>
-                                                                        <li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="floating-docks.html">Floating Docks</a></li>
+                                                                        <li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a href="platinumdocksystems.html">Platinum Docks System</a></li>
+                                                                        <li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="floatingdocks.html">Floating Docks</a></li>
                                                                         <li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-559"><a href="about.html">About Us</a></li>
                                                                     </ul>
                                                                 </div>
@@ -1252,10 +836,10 @@
                                                                 <div class="menu-certification-container">
                                                                     <ul id="menu-certification" class="menu">
                                                                         <li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-cpt_courses menu-item-564"><a href="dockaccessories.html">Dock Accessories</a></li>
-                                                                        <li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-cpt_courses menu-item-565"><a href="boat-lifts.html">Boat Lifts</a></li>
+                                                                        <li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-cpt_courses menu-item-565"><a href="boatf-lifts.html">Boat Lifts</a></li>
                                                                         <li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-cpt_courses menu-item-566"><a href="pontoonlifts.html">Starr Pontoon, Tritoon, & Canteliever Lifts</a></li>
                                                                         <li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-cpt_courses menu-item-567"><a href="pontoonliftsaccessories.html">Boat, Pontoon, & Tritoon Accessories</a></li>
-                                                                     </ul>
+                                                                    </ul>
                                                                 </div>
                                                             </aside>
                                                         </div>
@@ -1383,7 +967,6 @@
 
 
 
-
         </div>
         <!-- /.page_wrap -->
 
@@ -1395,9 +978,9 @@
 
 
 
-	<script type='text/javascript' src='js/output.min.js'></script>
-    <script type='text/javascript' src='js/rs6.min.js'></script>
-     <script type='text/javascript' src='js/slider.js'></script>
+	<script type='text/javascript' src='https://tjwaterfrontservices.b-cdn.net/js/output.min.js'></script>
+    <script type='text/javascript' src='https://tjwaterfrontservices.b-cdn.net/js/rs6.min.js'></script>
+     <script type='text/javascript' src='https://tjwaterfrontservices.b-cdn.net/js/slider.js'></script>
 
 </body>
 
